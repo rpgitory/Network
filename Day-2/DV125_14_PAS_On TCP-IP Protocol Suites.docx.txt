@@ -1,0 +1,220 @@
+﻿DV125_14_PAS on video related to  TCP/IP Protocol Suites
+Self-Assessment Sheet
+
+
+
+
+Q1.1 ________________is one of the main protocol in TCP/IP network. 
+A1.1 tcp/ip protocol
+
+
+Q1.2 TCP/IP  is a connection-oriented protocol, which basically means that it must first acknowledge a session between the two computers that are_______________. 
+ A1.2. communicating
+
+
+Q2. The two computers in a connection-oriented protocol verify a connection before any communication takes place using a ________ handshake.
+A2. Three-way
+
+
+Q3. What is the first step in connection-oriented protocol? **
+A3.  send syn
+
+
+Q4. The computer which received___________, will send back an acknowledgement message telling the sender that it has received the message **
+A4. SYN
+
+
+Q5.  Does TCP guarantee the delivery of the data.?
+A5. Yes
+
+
+Q6.  What will happen if a data packet goes astray and doesn't arrive?
+A6. it will resend
+
+
+Q7. UDP stands for __________________.
+A7. User datagram protocol
+
+
+Q8. What is the main difference between UDP and TCP?
+A8. UDP is connection-less and TCP is connection-oriented.
+
+
+Q9. UDP does establish a session and it does guarantee data delivery. (True/False)
+A9. False
+
+
+Q10. Why UDP is known as the "fire-and-forget" protocol?
+A10. bcz it does not guarantee that data will delivered 
+
+
+Q11. Why is UDP faster than TCP?
+A11. bcz is connection less
+
+
+Q12. ____________ doesn't really care if the data is received at the other end.
+A12. UDP
+
+
+Q13. FTP stands for _____________and this is a standard protocol that is used by web users to upload and download files between computers through the internet.
+A13.  File transfer protocol
+
+
+Q14. If a user wants to make their file suitable to download to other users all they what have to do simply upload their files to a FTP server and then a user can simply download them. (True/False)
+A14.  True
+
+
+Q15. FTP is a connection-oriented protocol. That uses ___________for file transfer. 
+A15. Yes
+
+
+Q16.1. TFTP stands for_______________. It's mainly used for transferring files within a same network.
+A16.1. Trivial file transfer protocol (it is connection less protocol which used UDP as transferring file)
+
+
+Q16.2 Which protocol is used by TFTP to transfer data.
+A16.2 UDP
+
+
+Q17.1 . SFTP stands for ____________________.
+A17.1 Secure File Transfer Protocol
+
+
+Q17.2  Secure FTP is just like FTP except that it adds a layer of security.[True /False]
+A17.2  True
+
+
+Q17.3  The data using Secure FTP is actually _______ using secure shell during data transfer.
+A17.3  encrypted 
+
+
+Q17.4 You may send no sensitive data like passwords are sent includes text. (True/False)
+A17. True
+
+
+Q18.1. SMTP stands for ______________And this you might guess is the protocol that is used sent emails. 
+A18.1. simple mail transfer protocol
+
+
+
+
+Q18.2 A good way to remember SMTP is by looking at the acronym as SMTP and translating that to sending _____________to people. 
+A18.2 mail 
+
+
+
+
+Q18.3 It uses ________ protocol.
+A18.3 TCP
+
+
+Q19. The main characteristics about POP3 is that all it does is just grab the email from the mail server and downloads the email to your computer. It does not sync any email or folders from the mail servers and your computer like I-map4 does. (True/False)
+A19. True
+
+
+
+
+Q20.1. POP 3 strictly downloads the email and typically when your email application using POP3 retrieve the_________. 
+A20.1  email from mail server 
+
+
+Q20.2 The email is removed from the mail server unless you specified in your email application to keep a ___________of a mail server 
+A20.2. Copy
+
+
+Q21.1 SNMP is called _____________protocol **
+A21.1 Simple network management Protocol
+
+
+Q21.2 SNMP  protocol used for _______ management. 
+A21.2 network
+
+
+Q21.3 SNMP is basically used for _________from various network devices such as routers, printers and servers. **   
+A21.3 Collection Data
+
+
+Q22.1 SCP stands for______________.
+A22.1  Secure Copy Protocol
+
+
+Q22.2 SCP protocol is simply used for secure shell to ___________data as it’s being transferred over a network. 
+A22.2 safeguard 
+
+
+Q23.1 RARP stands for ______________ 
+A23.1 Reserved Address Resolution Protocol
+
+
+Q23.2 As you might guess RARP is just the opposite of ARP. It’s used to resolve ______ addresses to ______ addresses. **
+A23.2,  MAC, IP
+
+
+Q24.1  NTP stands for _____________.
+A24.1  Network time Protocol
+
+
+Q24.2 NTP is an internet standard that is used to synchronize the clocks of the computers with U.S. Naval Observatory Master Clock.  (True/False) **
+A24.2 True
+
+
+Q25. NTP protocols runs on each computer and it sends a periodic requests to the server to make sure the time is in _________.
+A25. Sync
+
+
+Q26.1 IMAP is another protocol and it stands for ___________.
+A26.1 Internet Message Access protocol
+
+
+Q26.2 IMAP  is used for receiving email. IMAP4 is similar to POP3 because they both use for ________from the mail server. 
+A26.2 retrieving 
+Q26.3 But IMAP4 has better features than POP3 [True / False].
+A26.3 True
+
+
+Q27. With IMAP4 you can access or manage your email on the server from your local computer. So if you want to read your email and keep a copy of it on your server, IMAP 4 allow you to do it. (True/False)
+A27. True
+
+
+Q28.1 Unlike POP3, IMAP4 syncs your email and your email folders from the mail server with your computer.[True / False]
+A28.1 True
+
+
+Q28.2 _____is also commonly used with Microsoft outlook.
+A28.2 IMAP
+
+
+Q29.1 HTTP stands for ______________.
+A29.1 hypertext transfer protocol
+
+
+Q29.2 HTTP is probably the most widely used protocol in the world today and it is the protocol that is used for viewing __________on the internet.  
+A29.2 webpages
+
+
+Q30. SSH stands for ___________ is a better alternative to telnet. It protects the data of7 being _________ or ___________ as of being transferred over network.
+A30. secure shell, intercepted or tampered
+
+
+Q31. If you are sending a sensitive data like a login or password, a potential hacker could be listening and steal the data and that the reason for the secure shell. Secure shell acts like a secure tunnel that form around the data transferred and protects it from data threats. (True/False)
+A31. True
+
+
+Q32. ARP stands for ______________. And this is protocol that is used to resolve IP addresses to MAC addresses. When a computer needs to communicate with another computer on the network it needs a _________address for that computer.
+A32.  Address Resolution Protocol, MAC
+
+
+Q33. ARP communication will take place, if the targeted computer’s IP address already has a MAC address in its table. if it doesn’t it will send out a broadcasts message out on a network asking which computer has the IP address. The matching IP address will respond back informing that it has IP its looking for. Then the original computer will ask for Mac address and once it receives it the communication will take place.  (True/False)
+A33. True
+
+
+Q34. Telnets is a terminal emulation program that is used to access__________. It is a simple tool that runs on computer when you allow to run commands remotely, it sends commands not graphics makes it fast. But Telnet is not secure as it sends data in _________.
+A34. Remote server, clear text
+
+
+Q35. HTTPS stands for__________________. And this is HTTP with a security feature. HTTPS ____________ the data that is being retrieved by HTTP. 
+A35. secure http
+
+
+Q36. The ‘s’ added to http in the web URL indicates that you are using HTTPS and have enter a secure website where sensitive data is going to be passed and protected. (True/False)
+A36. True

@@ -1,0 +1,139 @@
+﻿DV125_18_PAS on video related to Internet Access Technologies 
+
+
+
+
+Q1. DSL stands for a______________
+A1. digital subscriber line
+
+
+Q1.1. DSL is popular technology used by homes and businesses to access_____________ data over the internet
+A1.1.  broadband 
+ 
+Q1.2. DSL can carry voice and data at the same time over phone lines (True/False)
+A1.2 True
+ 
+Q2. DSL modem uses common _____________ lines to carry its data. 
+
+
+A2. telephone 
+
+
+
+
+Q2.1. It’s a high speed connection that is much ___________then your regular dial-up modems. 
+
+
+Q2.1. faster
+
+
+
+
+Q3. ADSL stands for asymmetric digital subscriber line. It is called asymmetric because download speed is faster than upload. (True/False)
+
+
+A3. True
+
+
+
+
+Q4. SDSL stands for ______________ 
+A4. symmetric digital subscriber line (download and upload speed same)
+
+
+
+
+
+
+Q5. VDSL has download speed of ________over copper wire 
+A5. 50mbps ( very high bit rate DSL )
+
+
+Q6. By BroadBand Cable many homes access the internet. It uses a cable modem with attached coaxial cable it links to an internet service provider. (True/False)
+A6. True
+
+
+
+
+Q7. Broadband cable is typically provided by the same provider that provides ___________to their customers. 
+A7.  cable television 
+
+
+
+
+Q8. POTS/PSTIN stands for _________________________
+
+
+A8. plain old telephone service / public switched telephone network
+
+
+
+
+Q9. POTS/PSTIN is just your plan old _______________ and this is slowly because obsolete by people who are using internet today because of their slow speed 
+
+
+A9. telephone lines
+
+
+
+
+Q10. If you ever using high speed internet such as broadband you were never go back to using a slow speed of 56K which is a standard speed of ____________modem **
+
+
+A10. dial-up
+
+
+Q11. Telephone lines do have an advantage and that is there is basically everywhere and they are fairly cheap to use. (True/False)
+A11. True
+
+
+Q12. Where is Satellite communication mainly used? is pretty expensive
+A12. no other services or provider
+
+
+Q13. The speed of satellites has increased throughout the year. With a speed maximum around about 50 Mbps. (True/False)
+A13. True
+
+
+Q14. _______________ is portable devices that are used in a circular network to connect wireless devices to the internet.  
+A14. mobile hotspot
+
+
+Q15. In mobile hotspot wireless devices within _________ feet they can join it so they can have access to the internet.  **
+A15. 30 
+
+
+Q16. Mobile Hotspots comes in two forms, they were either in ___________device or they can come in a feature built in to a__________________.
+A16.  free standing, smart phone
+
+
+Q17. Mobile hotspots are available through cell phone carriers such as AT&T , T-Mobile and sprint.  (True/False)
+A17.  True
+
+
+Q17.  ____________ is basically a super wireless network that covers entire cities or countries **
+A18. WIMAX
+
+
+Q19. WIMAX does have the potential to placing DSL cable service because it can provide internet access to places where ___________ and ___________-can’t reach. **
+A19.  cables and DSL
+
+
+Q20. WIMAX towers directly connect to ISP with the T3 line. (True/False)
+A20. True
+
+
+Q21. Metro Ethernet is simply a metropolitan area network or MAN that is based on____________ 
+A21. Ethernet standards 
+
+
+Q22. Metro Ethernet is simple and changes to use because it doesn’t require any specialized cabling and equipment like other expensive technologies require. (True/False)
+A22. True
+
+
+Q23. Metro ethernet uses equipment and cabling related to ethernet which is by default the most common technology today. (True/False) **
+A23. True
+
+
+Q24. Even though end users are not sure about which technology their _________is providing in the middle, what matters is that both ends are using_________ connectivity. 
+A24.internet service provider, ethernet

@@ -1,0 +1,61 @@
+﻿DV125_25_PAS on video related to Wiring Distribution 
+
+
+Q1. A ____________ is a punch down block where wires are inserted, the wires are inserted using a punch down tool and they are punched down into a block. **
+A1. 66 block
+
+
+Q2. A Modern day punch down block is an____________ and it is better than a 66 block. **
+A2. 110 block
+
+
+Q3. A _____________is a panel that has a multiple cable connections and connects incoming and outgoing patch cable in a local area network
+A3.  patch panel
+
+
+Q4. Demarcation is the point where a customer’s network equipment meets with the service provider’s network equipment. (True/False)
+A4. True
+
+
+Q5. If the demarc needs to be extended further inside the customer’s building, then this is known as a______________. **
+A5.  Demarc extension
+
+
+Q6. A _______________is also known as a network interface unit or NID
+A6.  Smart jack
+
+
+Q7. Smart jack is often located at the _____________ point. And its job is to terminate the ______________ service wires at the customer’s building. **
+A7. demarcation, T carrier
+
+
+Q8. Smart jacks are used for monitoring a _______________ and _______________.They also have LEDs that indicate errors to a network technician. **
+A8. network errors and connectivity issue
+
+
+Q9. A ___________ refers to a point in a building where cables and wires are connected together. **
+A9.  Cross connecte 
+
+
+Q10. A vertical cross connects is the main backbone that runs vertically and travels between floors.  (True/False)
+A10. True
+
+
+Q11. 25 pair cable is a cable that has 25 pairs of______ wires inside and these wires are ____________to identify the individual conductors
+A11. smaller, color codes
+
+
+Q12. 100 pair cables have 100 pair of smaller wires inside and these are used for larger industrial jobs and paired to _________ colored 
+A12. uniquely 
+
+
+Q13. MDF stands for ___________________ 
+A13. Main Distribution Frame
+
+
+Q14. All of the internal line building connects to the MDF (True/False)
+A14. True
+
+
+Q15. IDF stands for _________________ 
+ A15. Intermediate Distribution Frame

@@ -1,0 +1,30 @@
+﻿DV125_9_PAS on video related to MAC Address
+Self-Assessment Sheet
+
+
+Q1. To get your MAC address type _______________ in command prompt
+A1. ipconfig (windows), ifconfig (linux)
+
+
+Q2. MAC stands for ___________________
+A2. Media Access Control
+
+
+Q3. MAC address is an identifier that every network devices uses to _______________ identifies itself on a network. So no two device anywhere in the world has the same MAC
+A3.  unique
+
+
+Q4. MAC made up of six byte hexadecimal number that is burned into every_________ by its manufacturer
+A4. NIC
+
+
+Q5. The MAC address can contain any number and it also contain alphabets to A to F. (True/False)
+A5. True
+
+
+Q6. The first ________of the MAC address identifies the manufacturer of the NIC. For example, Linksys, Netgear, Belkin.
+A6. 3 byte
+
+
+Q7. Last three bytes are a ___________ from the manufacturer that identifies each device in a network.
+A7. unique number

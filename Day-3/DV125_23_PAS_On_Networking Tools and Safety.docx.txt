@@ -1,0 +1,129 @@
+﻿DV125_23_PAS on video related to Networking Tools and Safety 
+Q1. As a network administrator the most common tool you probably used is the___________ and this tool is used to make custom links to network cables.
+A1. Wire crimper
+
+
+2. After you have attached your RJ-45 adapters to your cable you just place it into a crimper, squeeze it and the cable is done. (True/False)
+A2.  True
+
+
+Q3. ____________-is a tool that resembles a screw- driver. And this is simply used to connect or punch wires to a punch down block
+A3. punch down tool
+
+
+Q4. After making a custom link cable using your __________it’s a good idea to attach the cable to make sure it is wired correctly.  
+A4. wired crimper
+
+
+Q5. The ______________ shielding around a network cable must be removed in order to crimp a connector and this is done by using a cable stripper. 
+A5. plastic
+
+
+Q6. TDR stands for __________________ 
+A6. Time domain reflector 
+
+
+Q7. The TDR then analyzes the reflected signals, and pinpoints which problems?
+A7. a. conductors 
+       b. loose connectors 
+c.  bands
+d. shorts
+e. crimps
+Q8. OTDR stands for _________________ 
+A8. optical time domain reflector
+
+
+Q9. A millimetre is a device that is used to test electrical circuits. (True/False)
+A9. True
+
+
+Q10. _____________ is a device that resembles a telephone and it is used to test and monitor telephone lines.
+A10. butt set
+
+
+Q11. To use Butt set the technician will hook up the device into a __________to hear a conversation to determine if there is problems
+A11. line 
+
+
+Q12. A voltage event recorder is a device that is used to collect data about the quality of electrical power. (True/False)
+A12. True
+
+
+Q13. Voltage event recorder comes with software that is installed on a computer and the data about the power quality is _______________ and ____________
+A13. downloaded and analyzed
+
+
+Q14. ___________is a tool used to locating cable from one end to the other
+A14.Tone generator
+
+
+Q15. Protocol Analyzer is also known as a______________
+A15. packet sniffer
+
+
+Q16. Protocol analyser detects network problems, intrusion attempts, and monitor networking issues (True/False)
+A16. True
+
+
+Q17. Wireshark is a very common software ____________
+A17. packet analyser 
+
+
+Q18. A virus is a harmful program that is written to alter a way computers operate. (True/False)
+A18. True
+
+
+Q19. Antivirus software programs ___________a viruses in your hardware drive, targets them and___________ them before any damage is done
+A19.  scans, destroys
+
+
+Q20. In order to maintain an optimum protection against viruses you need to scan your computers on your network on a _____________ and keep the antivirus ____________.  
+A20.  regular, upto date
+
+
+Q21. ESD stand for ________________ 
+A21. Electrostatic discharge
+
+
+Q22. How can you prevent harming a computer and its components by wearing an ESD wrist strap?
+A22. it can stop a build up static electricity by safely ground
+
+
+Q23. One end of the ESD strap fits around __________and the other end is grounded. 
+A23. wrist
+
+
+Q24. An ESD mat is typically placed on a desk where assembly takes place. (True/False)
+A24. True
+
+
+Q25. Computers contain lead and harmful chemicals such as ___________that are harmful to the environment. 
+A25.  mercury 
+
+
+Q26. MSDS stands for __________________ **
+A26.  material safely data sheet
+
+
+Q27. As a computer technician safety is a priority when doing any kind of repair work (True/False)
+A27. True
+
+
+Q28. Always turn off the power and unplug the power cable before doing any hardware repair work it will protect from ______________and prevent damage to the computer
+A28. short
+
+
+Q29. Another precaution you can take is to remove any ____________you might be wearing such as ring, bracelet because this can potentially conduct_______________
+A29. hand jewelry
+
+
+Q30. In the computer field class C fire extinguisher is needed. (True/False)
+A30. True
+
+
+Q31. If you have cables running across walk ways you could be in high risk of ___________accident **
+A31. tripping
+
+
+Q32. Never use your back to lift a heavy object, always use your_____________
+A32. Legs

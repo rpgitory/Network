@@ -1,0 +1,48 @@
+﻿DV125_8_PAS on video related to Wireless Technologies
+Self-Assessment Sheet
+
+
+
+
+Q1. The IEEE is an international organization for the advancement of technology related to a   _______________.
+A1.  electricity
+
+
+Q2. What are the 5 wireless standards?
+A2.  A,B,G,N,AC standards 
+
+
+Q3. 802.11 standard project is _____________.
+A3. 802 project
+
+
+Q4. The first wireless standard which is ____________which came out in 1999 and the latest standard is the _________standard which was released in 2014. **
+A4. 802.11 a  ,802.11 ac
+
+
+Q5. IRDA stands for the _______________
+A5. Infra-Red data association
+
+
+Q6. Infrared is the technology that was developed by ___________
+A6. IRDA
+
+
+Q7. Infrared means ______________, a wireless technology with data transmitted in rays of light rather than using a__________. 
+A7.  below red, radio waves 
+
+
+Q8. The drawbacks of infrared is that it requires a direct line of sight. If any objects comes in between the two infrared devices, the communication will be blocked. (True/False)
+A8.  True
+
+
+Q9. Define Bluetooth.
+A9. it is a short range radio that provides a way to connect between devices such as laptop, cellphone.
+
+
+Q10. Bluetooth operates on 2.4 GHz. And it's capable of transmitting both ___________ and _________. **
+A10. voice and data
+
+
+Q11. Bluetooth has a transfer speed of __________and has a maximum range of approximately _______ meters. **
+A11. 24 mbps, 100 meters

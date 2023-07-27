@@ -1,0 +1,110 @@
+﻿DV125_11_PAS on video related to IP ADRESSES
+Self-Assessment Sheet
+
+
+Q1. An IP address is a numeric address. It's an___________ for a computer or device on a network.
+A1. identifier 
+
+
+Q2. The first part is the ___________ address and the second part is the___________ address.
+A2. network, host
+
+
+Q3. The two version of IP address are ___________ and _____________. 
+A3. ipv4, ipv6
+
+
+Q4. IP version 4 is a 32-bit numeric address written as four numbers separated by___________. Each group of numbers that are separated by periods is called an__________.
+A4.  periods, octet
+
+
+Q5. IP address 4 is made up of ______________sets of eight binary bits
+A5. 2^32 (4 billion unique address)
+
+
+Q6. In IPv4 starting from the left, the first bit has a value of 128 then 64 then 32 and so on to 1. Each bit on the octet can be either a 1 or a 0. If the number is a 1 then the number that it represents__________. If the number is a_______ then the number that it represents does not count.
+A6. counts, zero 
+
+
+Q7. By manipulating the 1s and the 0s in the octet, you can come up with a range from 0 to 255. (True/False)
+A7. True
+
+
+Q8. ______________, produced over 4 billion addresses. Engineers thought it would be enough but it wasn’t.
+A8. Ipv4
+
+
+Q9. The IP version 4 address is a _________ numeric address. Whereas IP version 6 is a ____________ hexadecimal address. Hexadecimal uses both numbers and alphabets in the address
+A9. 32 bit, 128 hexadecimal 
+
+
+Q10. IP version 6 can produce an unbelievable ____________ IP addresses. That's the number 340 with 36 digits after it.
+A10. 340 undecillion
+
+
+Q11. IP version 6 is a 128 bit hexadecimal address. It's made up of __________ with the 8 sets separated by _______as you can see here.
+A11. 8 set of 16 bits, colon
+
+
+Q12. In an IP version 6 IP address each hexadecimal character represents 4 bits. So, we have to convert 4 bits at a time to get one________________. 
+A12. hexadecimal character 
+
+
+Q13. In hexadecimal, we convert the first 4 bits and put those bits up there against our 4-bit chart which includes an _______________. 
+A13. 8,4,2,1
+
+
+Q14. In a hexadecimal format, ___________numbers have to be represented with a single alphabet which is 'A' through 'F'.
+A14. double digit
+
+
+Q15. A stand for __________ and F stand for ________.
+A15. 10,15
+
+
+Q16. The way to tell which section belong either to the network or the host is  the way ________________ comes in.
+A16. subnet mask
+
+
+Q17. Subnet mask is a number that resembles an IP address it reveals how many bits in the IP address are used for the network by mask in the ______________ portion of the IP address. 
+A17.  network 
+
+
+Q18. _________it will indicate the position of the IP address that defines the network. **
+A18. subnet mask binary digit is 1
+
+
+Q19. We cross up all the digit in the IP address that line up with the 1 in the subnet mask and when you this it will reveal that the first two octets are the network portion and the remaining is the host portion. (True/False)
+A19. True
+
+
+Q20. A class A IP address range is_____________ to ___________. This class supports ___________host on 126 networks. This class is mainly given to large organizations because of the tremendous amount of the IP addresses is given out.
+A20. 1 to 126, 16 million 
+
+
+Q21. Class B IP addresses ranges from_________ to ________. And this class support 65 thousand host on __________ networks. This class is given to medium size organizations.
+A21. 128-191, 16000  
+
+
+Q22. Class C IP address range is from_________ to ________. This class supports _______ hosts on 2 million networks. And this class is given to small organizations. 
+A22. 192-223, 254
+
+
+Q23. Number 127 is reserved for the ______________.
+A23. internal loopback address
+
+
+Q24. Public IP addresses are publicly registered on the internet. Which basically means that if you have a public IP address you have access to the internet. But private IP address are different. (True/False)
+A24. True
+
+
+Q25. Why you cannot directly access the internet with a private IP?
+A25. bcz it not publicly registered 
+
+
+Q26. The _____________ standard created private IP addressing to prevent a shortage of public IP address available to ISP and subscribers. **
+A26. rfc-1918
+
+
+Q27. Private IP ranges have 3 classes- Class A starts with a number________. Class B start with a number ________________. And class C start with number _____________.
+A27. 10.0.0.1, 172.16, 192.

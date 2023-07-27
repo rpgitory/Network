@@ -1,0 +1,98 @@
+﻿DV125_20_PAS on video related to Network types 
+
+
+Q1. PAN stands for_____________
+A1. Personal Area Network
+
+
+Q2. Devices in PAN connect to each other by using wireless technologies such as Bluetooth, infrared, and near field communication or NFC. (True/False)
+A2. True
+ 
+Q3. PANs are generally used for transferring ___________ files.
+A3. small
+
+
+Q4. LAN stands for ________________.
+A4. Local Area Network
+
+
+Q5. MAN stands for ____________________.
+A5. Metropolitan Area Network
+
+
+Q6. __________ Network spans over several buildings in a city or town.
+A6. MAN
+
+
+Q7. MANs are typically connected using a high-speed connection such as ___________ cable
+A7. fiber optic
+
+
+Q8. Which is the largest type of network?
+A8. WAN
+
+
+
+
+Q9. WAN stands for ______________.
+A9.  Wide Area Network
+
+
+Q10. WAN network spans over a ________area such as a country continent or even the entire globe. 
+A10. large geographical 
+
+
+Q11. __________ is a good example of WAN.
+A11. internet
+
+
+Q12. SCADA stands for_______________. 
+A12. supervisory control and data accquisition
+
+
+Q13. SCADA is used for _____________ and _________equipment that is used in industrial facilities such as power plants, water treatment plants, or refineries.  **
+A13. controlling and monitoring 
+
+
+Q14. SCADA communicates with sensors and systems in real time out in these industrial facilities and they sent back information to ____________ and ___________ 
+A14. PLC (programmable logical controller )and RTU (remote terminal units)
+
+
+Q15. SCADA is also often referred to as a _______________which is a general term that encompasses SCADA systems. 
+A15. ICS (industrial control system)
+
+
+Q16. _____________ also access the internet and make phone calls by using radio systems such as GSM & CDMA.
+A16. cellphone
+
+
+Q17. GSM is the largest radio system that is being used around the world. (True/false)
+A17.  True
+
+
+Q18. GSM works by changing the ___________ into ____________ form and assigned a time slot then as data is received on the other end the assigned time slotted data puts the call back together **
+A18. voice into digital
+
+
+Q19. CDMA stands for _______________.
+A19. code division multiple access
+
+
+Q20. CDMA is another radio technology that is not as widely used as____________. But it’s the system that is used by major carriers such as Verizon and sprint. CDMA works by data being_______________ with ______________-.   **
+A20. GSM, coded with unique key
+
+
+Q21. 4G LTE stands for ________________ is a technology that was developed by a 3rd generation partnership project.
+A21. 4th generation long term evolution
+
+
+Q22. Currently 4G LTE offers the fastest wireless communication speed available. With speed of_____________. 
+A22. 100 mbps
+
+
+Q23. 3G technology offers speed anywhere from___________ to ____________.
+A23.  384 kbps to 2 mbps
+
+
+Q24. EDGE uses a regular dial-up modem with speed starting around 75 Kbps. (True/False) **
+A24. False

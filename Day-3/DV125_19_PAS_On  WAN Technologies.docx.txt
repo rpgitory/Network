@@ -1,0 +1,65 @@
+﻿DV125_19_PAS on video related to WAN 
+
+
+Q1. When data is send across the network it is actually divided into smaller pieces or _____________ and then they are sent individually
+A1. data packets
+
+
+Q2. Data packets are sent using two different methods __________ switching and________ switching.
+A2. packet and circuit
+
+
+Q3. In packet switching, the data packets take different routes to their destination. (True/False)
+A3. True
+
+
+Q4. Packet switching method of communication also known as ___________
+A4. connectionless
+
+
+Q5. The internet mostly uses which switching technology?
+A5. packet switching 
+
+
+Q6. What is the difference between packet and circuit switching?
+A6. all the data send via dedicated router
+
+
+Q7. _________________ is a good example of circuit switching.
+A7. telephone line
+
+
+Q8. ISDN stands for__________________ **
+A8. integrated service digital network
+
+
+Q9. In order to use ISDN, users have to install ISDN modems. (True/False)
+A9. True
+
+
+Q10. T1 lines are probably the most commonly used internet services for businesses today. It’s a dedicated connection that supports data rates of ___________. **
+A10.  1.544 mbps
+
+
+Q11. A T1 line consists ________ individual channels that carry a rate of_____________ Kbps each. **
+A11.  24, 64kbps (each channel carry data & voice traffic)
+
+
+Q12. T3 line is a high speed internet connection that supports rate of _______
+A12. 43 mbps(it consist 672 individual channels each support 64 kbps )
+
+
+Q13. T3 Lines are mainly used by internet service provider ISPs that connect directly to a backbone of the internet.  (True/False)
+A13. True
+
+
+Q14. E1 Line is similar to T1 Line but in E1 line is a format that is used in ___________for digital transmission. **
+A14. Europe
+
+
+Q15. The _____________is a European equivalent of a T3 line and it has a speed of 34 Mbps. **
+A15. E3
+
+
+Q16. OCx describes the speed of networks that can be carried on SONET (synchronize optical network). (True/False) **
+A16. True

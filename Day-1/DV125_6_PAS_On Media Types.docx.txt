@@ -1,0 +1,90 @@
+﻿DV125_6_PAS on video related to Media Types
+Self-Assessment Sheet
+
+
+Q1. The difference between 5 different categories of twisted pair cables is ____________ they can handle or without having any cross talk. The numbers of these categories represent the ___________ of a twist that are applied to the wires. **
+A1. maximum speed, tightness
+
+
+Q2. Category 3 has a maximum speed of 10 Mbps and this is an old category that was used on old _________ethernet networks.
+ A2. 10 mbps base T
+
+
+Q3. Category 5 has a maximum speed of 100 Mbps. These were used on _______and TX ethernet networks.
+A3. 100 mbps base T
+
+
+Q4. Category 5e is an enhanced version of category 5 and it has speed of over 1000 Mbps and these are used on ___________ ethernet network.
+A4. 100 base T
+
+
+Q5. Category 6 also has a maximum speed of 1000 Mbps and it is also used on 1000Base-t ethernet network but it's more of a ______________duty cable compared to category 5e. **
+A5. heaviour 
+
+
+Q6. Category 6 is used in 10G Base-T networks which has a maximum speed of 10,000 Mbps but only for cable links of less than 100 meters. (True/False)
+A6.  True
+
+
+Q7. category 6a or augmented and this has a maximum speed of 10,000 Mbps and is used on __________ networks and unlike category 6 this has a maximum length 100 meters. 
+A7.  10G base t
+
+
+Q8. Unshielded twisted cable by default is the most common type of cable used today. It consists of four _____________ wires twisted around each other.
+A8.  pair 
+
+
+Q9. UDP wires are twisted to prevent ______________interference or cross talk. And is mainly used to_______________.  **
+A9. electromagnetic, local area network
+
+
+Q10. STP stands for _____________ cable is similar to unshielded twisted pair except that it has four shields that cover the wires.
+A10. shielded twisted pair
+
+
+Q11. Shielding adds a layer of protection against electromagnetic interference linking into or out of the cable in STP. (True/False)
+A11. True
+
+
+Q12. ________________ is used today primarily by cable providers to provide a computer with broad band internet connection. Early on it was used as the backbone for networks such as a ________ network. 
+A12.  Coaxial, bus
+
+
+Q13. RJ-6 is made for long distances and commonly used for cable television and___________________.
+A13.  internet connection
+
+
+Q14. RJ-59 is made for short distances and commonly used for high definition and high-quality video. (True/False)
+A14.  True
+
+
+Q15. SMF stands for ___________________
+A15. Single mode fiber
+
+
+Q16. How does fibre optic cable send data?
+A16. through plus of light
+
+
+Q17. What are the two different types of optic fibre? **
+A17.  single mode fiber, multimode fiber
+
+
+Q18. Single mode fibre is a fibre optic cable that allows a light to enter only at a single angle as you see in the picture. So, in this type of transmission of light entering at this angle it can travel great distances. (True/False)
+A18. True
+
+
+Q19. MMF stands for _______________, a difference between multimode and single mode is that in multimode light travels in _________ beams that reflect of the walls of the cables
+ A19. Multi mode fiber, multiple 
+
+
+Q20. Unlike single mode fibre, multimode fibre is made for ______________ distances. 
+A20.  short
+
+
+Q21. If you want a different type of media such as _________, _____________or coaxial within your network. Whether you can convert the internet to all these types by using a media converter. **
+A21.  fiber, ethernet 
+
+
+Q22. Multimedia allows you to convert the different types of media such as converting single and multimode fibre to ethernet, fibre to coaxial and single mode fibre to multimode fibre and so on.  (True/False)
+A22. True

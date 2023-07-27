@@ -1,0 +1,109 @@
+﻿DV125_16_PAS on video related to Networking Services
+Self-Assessment Sheet
+
+
+Q1. DNS stands for___________________
+A1. Domain name server
+
+
+Q2. The DNS server will search through its database to find a matching address for domain name and transform that domain name to the IP address (True/False)
+A2. True
+
+
+Q3. WINS stand for _______________ and this is used on NetBEUI networks. **
+A3. windows internet name service 
+
+
+Q4. WINS resolves NETBIOS or computer names to IP addresses (True/False) **
+
+
+A4.  True 
+
+
+
+
+Q5. NAT stands for _____________ and this is a service that is typically used in routers
+
+
+A5. Network Address Translation 
+
+
+
+
+Q5.1 NAT is used to translate a set of ______________to another set of IP addresses
+
+
+A5.1 Ip address
+
+
+Q6. PAT stands for_______________. **
+A6. Port Address Translation
+
+
+Q7. PAT issued unique port number which is done so that external _______________from the internet knows which computer on a private network to talk. **
+A7. data packet 
+
+
+Q8. SNAT stands for________________ **
+A8. Static Network Address Translation
+
+
+Q9. Whenever you look at webpage, your web browser will store that web page into the cache (True/False)
+A9. True
+
+
+Q10. Any web page that has been store in the proxy database, proxy server need not go out on the internet to retrieve that webpage instead It can simply retrieve it from its own database (True/False)
+A10. True
+
+
+Q11. What is the benefit of using proxy?
+A11.  It saved web caches into own database. (speed is faster)
+
+
+Q12. Proxy server saves ___________because it reduces a need to go out to the internet
+A12. Bandwidths 
+
+
+Q13. RDP stands for ________________, itis a technology from Microsoft to access remote computer desktops
+A13. Remote desktop protocol
+
+
+Q14. If a user wants to RDP into remote computer desktop, he simply need IP address of that computer (True/False)
+A14.  True
+
+
+Q15. CSMA/CD stands for_________________ 
+A15. Carrier sense multiple access with collision detection
+
+
+
+
+
+
+
+
+Q16. If two computers try sending data at the same time a collision will happen
+          (True/False)
+
+
+A16.  True
+
+
+Q17. Broadcast refer to when there is single transmitted data will be receive by ________receivers 
+A17. all
+
+
+Q18. CSMA/CA stands for______________
+A18. Carrier sense multiple access with collision avoidance 
+
+
+Q19. CSMA/CA first send out the small data packets to make sure the channel is clear before sending out its main data. (True/False)
+A19. True
+
+
+Q20. UNICAST the data packets are sent to a _____________destination
+A20. one to one (single)
+
+
+Q21. MULTICAST data packets are sent to_____________ destinations at the same time.
+A21. one to many (multiple)

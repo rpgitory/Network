@@ -1,0 +1,94 @@
+﻿DV125_3_PAS on video related to Cable Standards
+Self-Assessment Sheet
+
+
+Q1. ____________ refers to the space of a building whether it is open air flow circulation and this is usually between the drop ceiling and the structure ceiling.
+A1. Plenum
+
+
+Q2. These cables that through plenum spaces must meet certain requirements, what is it?
+A2. it must be more  fire resistant, they must not produce any toxic fumes 
+
+
+Q3.0 The IEEE- 2013 standard is called_____________over HDMI.
+A3. Ethernet
+
+
+Q3.1 The HDMI 1.4 specification adds another channel to the HDMI cable for_______ that has a capability of network communication.
+A3.1  data
+
+
+Q4. HDMI connected device that uses features that have the ability to send and receive data at ___________ethernet.
+A4. 100 mbps
+
+
+Q5. In addition to video and audio on a single cable. the HDMI cable have another ability of __________networking 
+A5.  ethernet
+
+
+Q6. _____________standard gave the ability to network using the existing electrical system building.
+A6.  ethernet over power (EOP)
+
+
+Q7. Ethernet over power line gives the ability of ethernet networking over power. (True/False)
+A7. True
+
+
+Q8. The power line adapters plug directly into a power outlet and they have a built in ethernet port for a RJ-45 connector so one of the plugs into the ____________next to the computer appear and then connect the ethernet cable for the network port of the computer and at the other end into the power line adapters_____________. **
+A8. power outlet, ethernet port
+
+
+Q9. In the powerline adapter the other adapters plug into the power outlet next to the ___________ or ___________down there, then you plug ethernet cable from the modem or router to the powerline adapter.
+A9. modem, router
+
+
+Q10. Ethernet data will use the building's electrical wires to deliver ___________into the other powerline adapter, so that the other computer can access the internet.
+A10. networking data 
+
+
+Q11. Cables are categorised and named according to their _______,________ and ________ **
+A11. speed, type and media
+
+
+Q12. In a cable called 10 base -T. ____________stands for maximum speed of this cable. ______stands for based band transmission. And ________stands for twisted pair cable.
+A12.  10, base, T
+
+
+Q13. __________ is also referred to as a thin ethernet. It is a version of ethernet that uses a ____________as a supposed untwisted pair cabling. It has a maximum speed of 10 MB/sec. And has a maximum length of 200 meters. **
+A13. 10 base 2, coaxial cable
+
+
+Q14. 100Base-T has a speed of _________ which is ______________ times faster than 10 Base-T. this uses category 5 UTP cable or higher. And it also has a maximum length of 100 meters. 
+ A14. 100 mbps, 10 
+
+
+Q15. 100 Base-T is also known as ____________
+A15. fast ethernet
+
+
+Q16. Differentiate between 100 Base-FX and 100 Base-T. **
+A16.  fx uses fiber optic cable where 100 base T uses copper cabling 
+
+
+Q17. 100 Base-FX has a maximum length of _______ meters in half duplex mode and ____ kilometers in full duplex mode.  
+A17.  400 meter, two
+
+
+Q18. ______________ has a base speed of 1000 Mbps. It uses category 5 UTP cabling or higher. And has a maximum length of 100 meters.  
+A18.  1000 base T
+
+
+Q19. 1000 Base-TX is similar to 1000 Base-T with the exception of supposed to be an easier setup because it only uses 2 un directional pairs of wires for communications. Whereas 1000 Base-T uses 4 by directional wires. But 1000 Base-TX never caught on. And is known as a failure in commercial implementation. (True/false)
+A19.  True
+
+
+Q20. _________ has a speed of 10,000 Mbps or 10 Gbps, it uses both shield and un-shield ___________cabling. It has a maximum length of 100 meters when using category 6a cabling or it using a category 6, it has a maximum length of 55 meters. 
+A20.  10G base T, twisted
+
+
+Q21. 10G Base-SR where the SR stands for_____________. This is a commonly used _____________fibre specifications and has a maximum length of 300 meters.
+A21. Short Range, multimode
+
+
+Q22. 10G Base-ER where ER stands for ___________And this has a longer range of 40 kilo meters using single mode fibre optics. And 10G Base -SW has the same specification as 10G Base-SR, but this is specifically used to operate over __________which is synchronizing optical networks. 
+ A22. Extended ridge, sonnet

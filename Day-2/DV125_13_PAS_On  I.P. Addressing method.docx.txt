@@ -1,0 +1,98 @@
+﻿DV125_13_PAS on video related to I.P. Addressing method
+Self-Assessment Sheet
+
+
+Q1. Every computer on a network has to have an I.P address for__________ purpose. And there are ____________ ways computer can assigned an I.P address.
+A1. communication  ,two
+
+
+Q2. IP could be assigned by either using a Dynamic IP or a Static IP. (True/False)
+A2.  True
+
+
+Q3. A____________ IP is what computer gets an I.P address automatically from a DHCP server.
+A3. Dynamic
+
+
+Q4. DHCP stands for a_______________. A DHCP server will automatically assigned a computer with a IP address.
+A4. Dynamic host configuration protocol
+
+
+Q5. In addition to an IP address DHCP can also assign a subnet mask, default gateway and a DNS server. (True/False)
+A5. True
+
+
+Q6. Why is dynamic IP address is the best choice?
+A6. bcz it assign dynamic ip with subnet mask and default gateway
+
+
+Q7. A ______________is were the user manually assigns an I.P address for the computer. So there is no need for a DHCP server.
+ A7. Static IP
+
+
+Q8. Unlike a dynamic addressing where the IP address change automatically, a static IP only changes if the users decides to. (True/False)
+A8. True
+
+
+Q9. If for some reason the computer cannot reach the DHCP server happen then a computer who are running Microsoft windows 98 or later, the computer itself assigns its own__________. And it address would be ____________network.  **
+A9. Ip address, 169.254.0.0 (self-assgined Ip which called as APIPA)
+
+
+Q10. Self-assigned addressing when the computer cannot reach the DHCP server, is called ______________which stands for___________________. 
+A10. APIPA, Automatic Private Ip address Assignment 
+
+
+Q11. If a DHCP server will later become available , the computers changes its IP address to one that’s obtain from DHCP server. (True/false)
+A11. True
+
+
+Q12. The DHCP server assigns an IP addresses to computers on a subnet from its________________. 
+A12. scope
+
+
+Q13. A scope is a group and a range of consecutive IP addresses for computers that gets their _______________from a DHCP server.
+A13. Ip address
+
+
+Q14. If you want your computer network to have a specific IP address all the time, you can create the_____________ on DHCP server
+A14. Reservation 
+
+
+Q15. A reservation ensures that a specific computers or device identified by its __________were always be given the same IP address when that computer accept the DHCP servers. 
+A15. MAC address 
+
+
+Q16. If you create a reservation from computer, the DHCP server on the routers will recognize its Mac address and were always give it a specific IP address. (True/false)
+A16.  True
+
+
+Q17. Reservations are not to be given to the regular computers they are typically given to special computers or devices. Such as network ____________ or ___________that requires using the same IP address constantly.   **
+A17. printer and server 
+
+
+Q18. The DHCP server assigns the IP address as a___________. So the computer doesn’t actually owned the address. **
+A18. lease
+
+
+Q19. If you do ___________in a command prompt on my computer you can see that the DHCP servers on router has assigned the computer an IP address with a lease of 1 day. Typically a DHCP server will automatically renew the IP address for you after it_____________ after a day.
+A19. Ipconfig, renewed 
+
+
+Q20. When a computer needs an IP address it will broadcast a request to a _____________.
+A20. DHCP server
+
+
+Q21. If the computer and the DHCP server are both on the same subnet, in other words not using the same IP address settings then the DHCP server will not receive the requests because broadcasts can go outside their own subnet. (True/False) **
+A21.  False
+
+
+Q22. What is the condition for DHCP server to assign the computer an IP address? 
+A22.  computer must send dhcp request to dhcp server.
+
+
+Q23. A ___________ or ____________is a service that is enabled on a router that will relay a DHCP broadcasts receives and forwards in. **
+A23. DHCP Delayed or Ip helper
+
+
+Q24. The computer will broadcast a request for IP address and once the DHCP relay on the router receives the broadcasts it will forward the broadcast to the DHCP server and then the DHCP server assigns the IP address back to the computer. (True/False)
+A24.  True

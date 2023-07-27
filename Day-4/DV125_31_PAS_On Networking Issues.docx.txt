@@ -1,0 +1,93 @@
+﻿DV125_31_PAS on video related to Networking 
+
+
+Q1. Network id are designed, in two main types ______________ and ___________. **
+A1.  wired and wireless
+
+
+Q2. A wireless network at some point there is a wired connection most of the business today uses a combination of wired and wireless network. (True/False)
+A2.  True
+
+
+Q3. If you are using a copper cabling it’s important to recognize the environment around the cable. Because certain electronic equipment such as fans or ACs can interfered with copper media and therefore altering or reducing the strength of a signal which is known as __________.
+A3.  attenuation
+
+
+Q4. If the cable exceeds the maximum cable _________ then this can also cause the problem. Or if you are using the wrong type of cable this can also after the network type. 
+A4.  length
+
+
+Q5. The wireless devices using radio waves ___________is a big factor that determines the range and speed of a signal. 
+A5.  The antenna 
+
+
+Q6 _____________ _ . This type of antenna transmits a signal in all directions. **
+A6.  Omni-directional 
+
+
+Q7. ____________ antenna directs the signal in one direction where you point the antenna too. 
+A7. directional 
+
+
+Q8. Microwave ovens can cause interference and certain wireless devices can interfere with a wireless signals such as cell phone and Bluetooth devices (True/False)
+A8.  True
+
+
+Q9. Phone is an another device that can interfere with a wireless network and that’s because it allows a lot of coolest phone operate in a same frequency as wireless routers do which is at 2.4 GHz. (True/False)
+A9.   True
+
+
+Q10. The structure of a building is another factor that can affect a wireless signal. (True/False)
+A10.  True
+
+
+Q11. Using a wrong type of encryption could also ________the wireless devices joining the network. 
+A11.  prevent
+
+
+Q12. In DHCP when server is removed then certain computers can have a expire IP address (True/False)
+A12.  True
+
+
+Q13. In DHCP when new computers are added. They will not be able to access a network without an IP address if they don’t have a ____________ IP address. 
+A13.  assigned
+
+
+Q14. If you are going to add another DHCP server to the network that it must be ______properly. **
+A14.  configured
+
+
+Q15. Why are you going to make sure that the two DHCP servers do not give out the same IP address to a computer?
+A17. bcz all ip address must be unique 
+
+
+Q16. If a DHCP server assigns an IP address that is already in use an IP address conflict will happen. So, to avoid this it must configure the _____________correctly. **
+A16.  address pool
+
+
+Q17. DNS resolves ____________into IP addresses. 
+A17.  domain name 
+
+
+Q18. The main impact that a DNS server will have on a network is DNS not working properly. It basically accesses the web pages using domain names. (True/False)
+A18. True
+
+
+Q19. Link LEDs are very simple indicators that are used to tell us the information about a___________. **
+A21.  network device
+
+
+Q20. On a network interface card if you were to plug in a network cable you would notice that the ____________ LED turns on. 
+A20.  green
+
+
+Q21. The green LED is called_____________. And this indicates that there is a successful network connection **
+A21.  link light
+
+
+Q22.If the green LED does not light up after the cable plugs in then this indicated the problem such as a bad cable or something simple (True/False)
+A22.  True
+
+
+Q23. The blinking LED on the other hand indicates that there is _____________happening whether blink rate is medium or slow this indicates normal operations. 
+A23.  network activity

@@ -1,0 +1,60 @@
+﻿DV125_10_PAS on video related to OSI MODEL
+Self-Assessment Sheet
+
+
+Q1. In order to network communication to take place this needs to be a set of standards and that’s why a ________________was developed.
+A1. OSI model
+
+
+Q2. The OSI model described how information from software in one computers moves through a ___________to reach software in another computer.
+A2. network
+
+
+Q3. OSI model does this by breaking down this huge task of data communication into _____________ giving control into data being sent in one layer to another and layers are numbered from 1 to 7 starting from the bottom.
+A3. 7 different layers
+
+
+Q4. When two computers want to communicate the data flows down the OSI model and when the data is crosses over the network media such as the internet it flows back up the OSI model to its destination. (True/False)
+A4. True
+
+
+Q5. The top layer of the OSI model is the______________. And this layer as you might be guessed deals with the applications. The purpose of the layer is to manage communications between applications.
+A5.  Application 
+
+
+Q6. Application layer supports application protocols such as email, __________and FTP. At this layer, data still resembles something that you can actually read.  
+A6. HTTP
+
+
+Q7. The Presentation layer is where data is first converted into a form that can be sent over a network. Data is compressed or decompressed and _____________ or _________This layer is sometimes referred to as the________________ layer. 
+A7. encrypted or decrypted, translation
+
+
+
+
+Q8. The Session layer controls the dialogue during the communications. It establishes, manages, and terminates the connection between the ___________ and _________application. This layer is also known as “____________” because it directs network traffic. **
+A8. local and remote, traffic
+
+
+Q9. The transport layer provides the transfer of data between end users. It responsible for resending any packets that do not receive an acknowledgement from the destination ensuring that the data packets will be received by the destination. This layer guarantees that packets are received. (True/False)
+A9. True
+
+
+Q10. The ____________is responsible for routing the data packets based on its logical IP address. It fragments and reassembles the_______________. And it instructs data on how to find its ultimate destination. 
+A10. network layer, packets 
+
+
+Q11. The bottom of the OSI model is Physical layer and this layer defines the ______________ and _______________of a network such as a connectors, media types, cables, voltages, etc. 
+A11.  network standards and characteristics.
+
+
+Q12. What does physical layer defines? **
+A12. it defines network standards and characteristics such as connector, media types, cables, voltage etc.
+
+
+Q13. The _____________ is responsible for sending data to the physical layer. data packets are encoded and decoded into bits
+A13. data link
+
+
+Q14. Data Link layer handles flow control and __________________. And it also divided onto two sub layers, the media access control layer (MAC) and the______________ layer.  **
+A14. synchronization, logical link control layer

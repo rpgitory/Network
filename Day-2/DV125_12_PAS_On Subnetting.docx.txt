@@ -1,0 +1,42 @@
+﻿DV125_12_PAS on video related to Subnetting
+Self-Assessment Sheet
+
+
+Q1. The word Subnet is short for _______________ which means a smaller network within a larger one.
+A1. sub network
+
+
+Q2. _______________ is basically a breaking down a large network into a smaller networks and subnets. It is mainly done to make your network more manageable.  
+A2. subnet 
+
+
+Q3. If you ISP assigned you a Class B IP address with a default subnet mask. A class B IP address will allow you approximately ___________ IP address for all your computers.
+A3.  16000 
+
+
+Q4. If you had a very large business with for example, 3000 computers then this could be a problem, because of traffic issues caused by so many broadcasts. (True/False)
+A4. True
+
+
+Q5. Subnetting is basically done by changing the default subnet mask by borrowing some of the bits that are designated for ____________ and using them to create subnets. 
+A5. host
+
+
+Q6. A default class B subnet mask is ____________ the first two octets is for the network and the last two octets is designated to hosts. 
+A6. 255.255.0.0 (first 2 octetc network)
+
+
+Q7. The formula which is used = 2n-2, Where n= the numbers of bits, We need to the borrow from the host portion for the subnet mask.   (True/False) **
+A7.  True
+
+
+Q8. Borrowing 3 bits will give us _______ subnets which will be fine because we need at least 3 subnets.
+A8. 6
+
+
+Q9. If a problem were to occur it will be very hard to employ in one ______network. **
+A9. isolated
+
+
+Q10. If your business is scattered in 3 different geographical locations and this would also be a problem. A better way would be to break down your network into smaller ones or subnets. (True/False)
+A10. True

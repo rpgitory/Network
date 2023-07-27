@@ -1,0 +1,146 @@
+﻿DV125_27_PAS on video related to Optimization and Fault Tolerance 
+
+
+Q1. A ____________is used to control network traffic. You can use it to set upload and download limits on less important data such as web creation. 
+A1. bandwidth shaper 
+
+
+Q2. You can prioritize important data like business needs and make sure it has the highest upload and download limits using bandwidth shaper. (True/False)
+A2. True
+
+
+Q3. A term_____________ is similar to what a bandwidth shaper does. It prioritizes applications and guarantees bandwidth for more important services.
+A3.  Traffic shaping 
+
+
+Q4. A ___________is a piece of hardware and software that is used to evenly distribute data activity across a network so that no single server or computer becomes overwhelmed with the workload
+A4. Load balancer
+
+
+Q5. We can add a load balancer so that all servers in network shares evenly network activity (True/False)
+A5.  True
+
+
+Q6. QOS stands for_____________
+A6. Quality of service
+
+
+Q7. In a computer networking QOS is the term that is used to provide a _____________ of data delivery within a certain period of time
+A7. guarantee 
+
+
+Q8. __________is one of the ways to provide security to a network. It is done on the firewall
+A8. port blocking
+
+
+Q9. As a network administrator you can control which port should be ___________ or closed depending upon the applications. 
+A9.  open
+
+
+Q10. If you close some of these ports, for example port 80 then our network will not be able to access_____________. 
+A10. web services( network ).
+
+
+Q11. Port blocking can be a great way to keep the network safe. But it can also cause problems if you by mistake the closed wrong ports. (True/False)
+A11. True
+
+
+Q12. An ____________is a term that is used to guarantee a period of uptime of continual operation. 
+A12. high availability
+
+
+Q13. In order to keep a network on constant operation you need to make sure that they always have power (True/False)
+A13. True
+
+
+Q14. In order to prevent a disruption in network operation from a loss of power you need to use a 
+A14. UPS (uninterrupted power supply)
+
+
+
+
+Q14.1. UPS stands for ________________it’s a battery backup that supplies powers to your equipment if powers outages will be happen 
+A14.1. uninterrupted power supply
+
+
+Q15. UPS is also protected against surges and spikes. (True/False)
+A15. True
+
+
+Q16. _____________is has the ability of having a continuous connection to the network in the event of a failure. 
+A16. Link redundancy 
+
+
+Q17. In a broadband connection If the primary card fails the secondary card will automatically kick in so you would still have a continuous connection. (True/False)
+A17. True
+ 
+Q18. A backup server is to keep your ______in constant operation. 
+A18. network
+
+
+Q19. A standby server is a secondary server with the exact configuration as the primary. (True/False)
+A19. True
+
+
+Q20. A ___________is when a company has a group of servers work together for load balancing and fault tolerance. **
+A20. Server clustering 
+
+
+Q21. In clustering setup servers will share workload if one of the server fails (True/False)
+A21. True
+
+
+ Q22. A full backup just as its name suggests backs up __ data.
+A22. full
+
+
+Q23. Which is the simplest form of backup and why?
+A23. full backup
+
+
+Q24. What is the disadvantage of a full backup?
+A24. take long time for backup
+
+
+Q25. When will performing a full backup daily not be efficient?
+A25. Yes
+
+
+Q26. What is an advantage of full backups?
+A26. simply copy and backup in one tap
+
+
+Q27. Incremental backup is much________ than a full backup 
+A27. better
+
+
+Q28. The advantage of incremental backup is that it is the fastest backup compared to full or differential backup. (True/false)
+A28. True
+
+
+Q29. What is the disadvantage of incremental backup?
+A29. in last need to combine in week
+
+
+Q30. A differential backup is faster than a ______but it's not as fast as an incremental backup.
+A30. full backup
+
+
+Q31. If you ever needed to restore the data from ___________, you would only need the last full backup and the last ________ backup to completely restore your data.
+A31.  differential backup, differential
+
+
+Q32. ______________ is where you backup your data and have it stored in different geographical locations for safety purposes. 
+A32. offsite storage 
+
+
+Q33. In offsite storage if some kind of natural disaster happen in your location and your main office is destroyed you would still have a copy of all your data in other (True/False)
+A33. True
+
+
+Q34. A _______________is similar to a hot spare but with it you must turn off the power first in order to replace the piece of equipment. **
+A34. cold spare
+
+
+Q35. A ___________is defined as the equipment that can be swapped out without the need of turning off the power. **
+A35. Hot spare

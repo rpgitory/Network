@@ -1,0 +1,51 @@
+﻿DV125_5_PAS on video related to Wiring Standards
+Self-Assessment Sheet
+
+
+
+
+Q1. The term 568a and 568b refer to a set of wiring standards developed by TIA/EIA which is also known as a __________________
+A1.  Telecommunication industry association
+
+
+Q2. The term 568a and 568b defines what rules?
+A2. defined rules for twisted pair cable how should wired in RJ-45 connector
+
+
+Q3. What is the 568A standard wired in order?
+A3. green-white, green, white-orange, blue, white-blue,orange, white-brown,brown
+
+
+Q4. What is the 568B standard wired in order?
+A4.  green-orange,orange, white-green, blue,white-blue,greeb, white-brown,brown
+      
+Q5. Whether you choose to use A or B wiring standard if both ends of the cable are wired using the same standard. Then this is known as a _______________. **
+A5.  straight cable
+
+
+Q6. A straight cable allows signals to pass straight through end to end. And this is a most common type of cable and it is used to connect computers to ________, ___________ or _______.
+A6. hubs,switched or modems
+
+
+Q7. ______________cable is created when both ends of the cable are wired using two different standards. **
+A7. cross-over 
+
+
+Q8. One end is wired using 568A standard and the other end is wired to the 568B standard, is an example of which cable? **
+A8. connect two computer without hubs, switch, router
+
+
+Q9. Crossover cable is used connect two __________devices together **
+A9. hubs,switches
+
+
+Q10. Cross-over cable are used to connect computers directly to each other without using a hub or switch. Cross-over cable were also used to connect hubs or switches to each other. (True/False)
+A10. True
+
+
+Q11. A rollover cable is created when both ends are wired completely ___________ of each other. These are used to connect a computer or terminal to a __________ port.   **
+A11. opposite, router console
+
+
+Q12. Loopback cable is used for__________ purposes. A computer thinks that it is connected to a network and to take a loopback cable you connect pin 1 to_____ _ and pin 2 to_____. **
+A12. testing, pin 3, pin 6

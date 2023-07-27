@@ -1,0 +1,95 @@
+﻿DV125_17_PAS on video related to Routing protocols 
+
+
+Q1. A loopback interface is a virtual interface created on a_____________
+A1. router
+
+
+Q2. In terminal when we are in configuration mode we need to enter __________key for interface
+A2.  int loopback0
+
+
+Q3. A routing table is a file that contains a set of __________that shows information on what path a data packet takes to its destination 
+A3.  rules
+
+
+Q4. What does a basic routing table contain? **
+A4. A network destination, subnet mask, default gateway, loopback address, interface, next hop, metric
+
+
+Q5. In order data to travel across a network and reach its destination, it needs a map to determine the best path to take and a way it does this is using a ______protocols
+A5. routing
+
+
+Q6. Routing protocols collect information about the current network status and map out the best path for ______________to take to their specific destination. 
+A6. data
+
+
+Q7. What are the types of routing protocols? **
+A7. 3, distance factor, link state, hybrid
+
+
+Q8. Distance vector protocols are factors in distance to the destination based on how many hops. (True/False)
+A8. True
+
+
+Q9. RIP stands for______________ 
+A9. Routing information protocol
+
+
+Q10. RIP is the oldest routing protocol. Routers that uses RIP, broadcasts their routing information to other routers in every 30 seconds (True/False)
+A10. True
+
+
+Q11. Why did the developers create RIPv2?
+A11. bcz of excessive broadcast traffic that RIPv1 caused 
+
+
+Q12. BGP stands for__________________
+A12  border gateway protocol
+
+
+Q12.1. BGP determines ___________that are based on paths and policies
+A12.1. routing 
+
+
+Q13. Link state is a routing protocol that is used by_____________ to share information and independently map out the best path on a network. 
+A13.  router
+
+
+Q14. Give example of link state protocol
+A14. OSPF, IS-IS
+
+
+Q15. OSPF stands for _____________________
+A15. open shortest path first 
+
+
+Q16. IS-IS which stands for___________________ **
+A16. intermediate system to intermediate system
+
+
+
+
+Q17. IS-IS primarily functions within domains and it uses Connectionless Network Service.  (True/False)
+A17. True
+
+
+Q18. EIGRP stands for___________________
+A18. Enhanced interior gateway routing protocol (only runs in cisco router, fast, consist distance vector and link state protocol)
+
+
+Q19. SIP stands for ________________ **
+A19. session initiation protocol 
+
+
+Q20. VOIP is _____________IP 
+A20. voice over IP
+
+
+Q21. RTP stands for __________________
+A21. Real Time transfer  protocol (RTCP, real time transfer control protocol)
+
+
+Q22. RTP is often used over UDP so it doesn’t guarantee data delivery. True/False)
+A22. True

@@ -1,0 +1,109 @@
+﻿DV125_21_PAS on video related to   Remote Access Protocols
+
+
+
+
+Q1. ___________is a technology that enable you to connect to a computer from a remote location
+A1. RAS
+
+
+Q2. RAS was originally developed by Microsoft and built into their Windows NT line of server software. (True/False)
+A2. True
+
+
+Q3. With which network protocol RAS works with? **
+A3.  TCP/IP NET GUI, IPX/SPS
+
+
+Q4. SLIP stands for_______________ **
+A4. serial line internet protocol
+
+
+Q5. Why is SLIP rarely used anymore?
+A5. bcz not secure protocol
+
+
+Q6. During a dial-up connection SLIP sends all data including sensitive data like passwords in ______________
+A6.  cleartext
+
+
+Q7. PPP stands for _________________. And this is a standard remote access protocol that is used today
+A7. point to point
+
+
+Q8. Why do most internet service providers use PPP protocol for the customer who wants to access the internet through a dial up connection?
+A8.  error checking, encrypted 
+
+
+Q9. How does PPPOE work? **
+A9. point to point protocol over ethernet, it works by encapsulating PPP frames in ethernet frames
+
+
+Q10. PPPOE protocol used for connecting multiple users on a local area network to a remote site sharing a common device (True/False)
+A10. True
+
+
+Q11. PPTP stands for ______________
+A11. point to point tunneling protocol
+
+
+Q11.1. PPTP technology is used for_____________. In fact this is the default protocol associated with VPNs.
+A11.1. VPN
+
+
+
+
+Q12. Does PPTP ensure that the transfer of data between one device to another is secured by creating a secure tunnel between the two points?
+A12.  Yes
+
+
+Q13. GRE stands for _______________is a protocol that is used with PPTP in creation of a VPN network. **
+A13. Generic route encapsulation
+
+
+Q13.1. GRE is what actually creates the___________ in PPTP. It is used to encapsulating the data in a secure manner
+Q13.1. Tunnel
+
+
+Q14. VPN is a_____________
+A14. Virtual Private Network
+
+
+15. The data is encrypted as VPN sends and decrypted when received. It provides a dedicated link between two points over the internet. (True/False)
+A15.  True 
+
+
+Q16. A VPN is created and managed is by using a_____________
+A16. VPN concentrator 
+
+
+Q17. VPN Concentrator authenticates users, encrypts the data, and assigns ____________to users. 
+A17. Tunnel IP address
+
+
+Q18. Are VPN Concentrators always needed to manage and create VPNs?
+A18. No
+
+
+Q19. VPN concentrators are mainly used in organizations that are going to use a lot of VPN connections and they need a device to handle heavy traffic that VPNs create. (True/False)
+A19. True
+
+
+Q20. If an organization is only going to use small amount of VPN connections then they can just use the VPN software that is built into their router (True/False)
+A20.  True
+
+
+Q21. ________________ is used when an organization has two offices at different geographical locations and they want those offices to be networked and share data with each other over the public internet
+A21. Site to Site
+
+
+Q22. If you need your computer to connect with your office at a different location so you can access files then you will need to set up a ___________VPN connection.
+A22. host to site
+
+
+Q23. All the special VPN hardware in host to site would be only at the office or the site side of the connection and not at your home.   (True/False)
+A23. True
+
+
+Q24. VPN host to host is simply when you want to establish a VPN connection between two computers over the internet. (True/False)
+A24. True

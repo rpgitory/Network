@@ -1,0 +1,59 @@
+﻿DV125_22_PAS on video related to   Authentication Protocols 
+
+
+Q1. In computers authentication is the process of verifying the identity of the users such as a____________ or ____________. In the world of networking there are several protocols that are used to achieve authentication.
+A1. username or password
+
+
+Q2. PAP stands for________________
+A2. Password authentication protocol
+
+
+Q3. What is the downside of PAP?
+A3. it is not safe bcz cleartext transfer
+
+
+Q4. CHAP stand for _________________  **
+A4. challenge handshake authentication protocol
+
+
+Q5. In CHAP server sends a challenge to a client then client respond by using a one way function with answer (True/False) **
+A5. True
+
+
+Q6. MS-CHAP is a __________ version of CHAP. **
+A6. Microsoft challenge handshake protocol
+
+
+
+
+Q7. What are the two versions of CHAP?
+A7. MS-CHAP, MS-CHAP 2
+
+
+Q8. MS-CHAP 2 offers mutual authentication both the client and the server are authenticated (True/False)
+A8. True
+
+
+Q9. Radius is a protocol that enables a single server, such as a ______________to handles all authentications **
+A9. domain controller 
+
+
+Q10. _________logs into a radius server and makes the request on the user’s behalf after authenticating. 
+A10. user’s
+
+
+Q11. ______________is an authentication protocol that is developed by MIT. And it authenticates by using tickets.
+A11. Kerberos
+
+
+Q12. In order for client to access network resources, it first authenticates itself with the Kerberos server (True/False)
+A12. True
+
+
+Q13. EAP stands for ____________________. **
+A13. Extensible authentication protocol
+
+
+Q14. EAP is a general protocol that supports many methods of authentication. And the most commonly associated with is______________. **
+A14.  smart cards

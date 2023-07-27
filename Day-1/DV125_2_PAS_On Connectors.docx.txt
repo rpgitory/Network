@@ -1,0 +1,108 @@
+﻿DV125_2_PAS on video related to Connectors
+Self-Assessment Sheet
+
+
+Q1. RJ-11 stands for _____________
+A1.  Register Jack
+
+
+Q2. RJ-11 is a full wire connector used mainly to connect ________________.
+A2. telephone equipment
+
+
+Q3. RJ-11 is used to connect computers to ______________through the computers modem.
+A3. LAN
+
+
+Q4. The RJ-11 locks itself into a place by a ________________. And it resembles the ___________ but it is a little bit smaller.
+A4. hinged, resembles
+
+
+Q5. RJ-45 is by fault a most common network connector. (True/false)
+A5. True
+
+
+Q6. _____________ _ is a 8 wire connector used to connect computers to local area network. And like the RJ- 11 it also locks itself into a place by a hinged lock in tab and it also resembles the RJ-11 but it’s a little bit larger.
+A6. RJ-45
+
+
+Q7. What is the difference between RJ-48c and RJ-45?
+A7. it both looks same where RJ-48c is shielded twisted pair instead of UTP. which is commonly used with T1 connection 
+
+
+Q8. What is a UTP coupler used for?
+A8.  UTP network cables with RJ-45
+Q9. __________is typically used running a longer cable is not an option. You just plug one of the end of the cable to the ________ and then add another cable on other side. and now you have successfully extended you UTP cable.
+A9.UTP , end
+
+
+Q10. The ______________ is a common type of RF connector that is used on coaxial cable. It stands for _________________ And it is used for both analog and digital video transmissions as well as audio.
+A10. BNC connector, bayonet neli-concelman.
+
+
+Q11. The ______________is used to connect together a coaxial cable with BNC connectors attached to them. This particular coupler is a BNC _____________ _ -coupler.
+A11. BNC coupler, female to female
+
+
+Q12. If you want to join two fibre optic connectors to this you would use Fibre Coupler. It is used to couple or join two of the same fibre optic connectors. The two connectors have to be the same type. (True/false)
+A12. True
+
+
+Q13. Fibre couplers are not to be confused with a_____________. Because they are for joining two different connectors together. Such as in ST to an SC or LC to an SC and so on. 
+A13. fiber adapter
+
+
+Q14. _____________ is typically used in coaxial cable. These are primarily by cable providers to attach the cable modems. **
+A14. F type connector
+
+
+Q15. The F-Type hand tightens by an _____________
+A15.attached nut
+
+
+Q16. USB is very common on desktop and laptops. Many manufacturers make _____________ to plug into the USB port.  
+A16. USB wireless adapter 
+
+
+Q17. USB has two different connectors types _________, ____________.
+A17. USB wireless network adapter, wired network adapter
+
+
+Q18. Firewire is recognized by D- shape. This type of connection is becoming more popular on desktops and laptops and is commonly associated with attaching peripheral devices, such as digital cameras and printers, rather than network connections. **
+A18. False
+
+
+Q19. MT-RZ stands for______________. This is a fibre optic cable connector. It used the launched ___________ connections. And it has a small form factor for high packed density.
+A19. Mechanical Transfer Register Jack, push-pull connection
+
+
+Q20. ST stands for ________ is a half twist pair net type of lock. And is commonly used with single mode fibre optic cable.
+A20. Straight Strip
+
+
+Q21. _______________ is also a fibre optic connector. It uses a jack similar to the RJ-45. This type of connector is commonly used between floors in a building. And stands for ____________
+A21.  LC connector, Lucent Connector
+
+
+Q22. __________ uses push-pull connectors similar to audio and video plugs. And like the LC connector this is also commonly used between floors in a building. And stands for ________
+A22.  SC connector, subscribe Connector
+
+
+Q23. The term serial refers to sending data one bit at a time. Serial cables are cables that carry serial data transmission and a most common form of serial cables used the RS-232 standards which uses the common D shaped connectors such as a DB-9 and DB-25. (True/False)
+A23. True 
+
+
+Q24. The point that a connectors join, light is transmitted from one connector to the other connector but at that point light passes through the other connector it will reflect back in the opposite direction towards the light source and as this happens there is signal loss. This is what happens in UPC connectors. Light is reflected directly back. (True/False)
+A24. True
+
+
+Q25. As a technology progressed new connectors were developed to decrease the signal loss and that is called the ____________. **
+A25. APC
+
+
+Q26. What is the difference between the UPC and APC?
+A26. Angle of end face or a tip where the connection is made
+
+
+Q27. With the___________, the light reflects back towards the light source. But with the _________ with its angle connections the light doesn’t reflect back towards the light source it reflects back to the angle to the wall of a cable as a result it greatly reduces the signal loss. **
+A27. UPC, APC

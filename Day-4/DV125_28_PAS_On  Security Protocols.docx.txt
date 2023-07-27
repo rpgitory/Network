@@ -1,0 +1,80 @@
+﻿DV125_28_PAS on video related to  Security Protocols 
+
+
+Q1. IPsec is a set of protocols for security at the network layer of___________________. 
+A1. OSI model
+
+
+Q1.1 IPsec ____________ the data when communication is happening between two computers
+A1.1. encrypts 
+
+
+Q2. In order to use IPsec both sender and receiver must share a public key. (True/False)
+A2. True
+
+
+Q3. In addition to encryption IPsec also_____________ the data will ensure the data is received exactly that which was sent.
+A3. verify 
+
+
+Q4. What are IPsec modes?
+A4. a. transport (message portion of data packet encrypted)
+       b. tunnel (everything encrypted)
+
+
+Q5. Transport mode only the ____________of the data packet is encrypted.
+A5. data
+
+
+Q6. In Tunnel mode the entire data packet is encrypted. (True/False)
+A6. True
+
+
+Q7. Layer 2 tunnelling protocol is a combination of Cisco’s layer 2 _____________and point to point tunnelling protocol. **
+ A7. forwarding 
+Q8. L2TP protocol authenticates in few ways using digital certificates, it authenticates both the computer and user (True/False)
+A8. True
+
+
+Q9. SSL stands for _________
+A9. Secure socket layer
+
+
+Q10. If you were to go to E-commerce websites you would notice that ____________ is added to the HTTP which indicates that you were now using a SSL in your web browser. 
+A10. S
+
+
+Q11. Which ways protection does SSL provides? **
+A11. a.  server
+         b.  client
+         c.  encrypted the data
+
+
+Q12. _________________ is the latest industry standard SSL protocol, it’s the successor to SSL. And it’s based on the same specifications.
+A12. transport layer security 
+
+
+Q13. SSL also authenticates the server, client, and ____________the data. 
+A13. encrypted 
+
+
+Q14. TLS is made up of two layers: the first layer is _____________protocol which provides connection security by making sure that the connection is private and reliable. **
+A14.  TLS record 
+
+
+Q15. A4 second layer is a TLS Handshake Protocol which allows a server and client to authenticate each other and negotiable an encryption algorithm and _______________key before data is sent
+A15.  cryptographic
+
+
+
+
+Q16. What is the goal of TLS? **
+A16. ssl safer and more secure
+
+
+Q17. __________standard protocol is used for both wired and wireless networks. 
+A17. 802.1x
+
+
+Q18. 802.1x controls access by ports. It authentication passes the port based opened. And if the authentications fail the port is closed.  (True/False)
+A18. True

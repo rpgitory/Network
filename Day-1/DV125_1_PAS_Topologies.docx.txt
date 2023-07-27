@@ -1,0 +1,133 @@
+﻿DV125 1_PAS on video related to Topologies
+Self Assessment Sheet
+ 
+
+
+Q1 What do you mean by “TOPOLOGY”?
+A. It is a structure of network how all components connected with each other.
+
+Q2 Name the most common Topology?
+A.Star, bus, hybrid, mash, tree
+
+Q3 In ___________ topology the computers are connected to the central wiring point such as a Hub or a Switch.
+A. star
+
+Q4 data on Star Network  passes through the _________ point before continuing to its destination.
+A. center
+
+Q5 The major benefits of Star  topology is that if  one computer failed or if there was a break in a cable the other computers will  not be affected. Why?
+A. if node computer is failed then there is not a problem with another computer although if central computer failed then all computer will disconnected with each other.
+
+Q6 Major disadvantage of a star topology is that if the central hub or switch fails, the other computers on that central point would be affected and this is called a ?
+A. If hub or central system failed then entire network will down
+	
+Q7 What happens if we have Single Point of Failure?
+A.if it happened in ring topology then entire network will disconnected.
+
+Q8 Name the network topology where  computer devices and network devices are connected to a single cable? 
+A. BUS
+
+Q9 Backbone of Bus Topology is known as?
+A. coaxial 
+
+Q10 In Bus Topology, the  computers are connected with this cable using special connectors called BNC which are also known as ?
+A. T connector
+
+Q11 One of the advantages of the bus topology is ?
+A. easy to setup
+
+Q12 However the disadvantage of the bus topology is that it requires that the cable be terminated at both ends using ?
+A. if the main cable broke down then it will create outage in entire network.
+
+Q13 If a computer is removed or added or if terminators are loose or missing then the cable would be open and data will bounce back and this is known as ? 
+A. signal reflection 
+
+Q14 What happens if we have signal-reflection?
+A. if computer is removed or added or if terminator are loose or missing then the cable would be open and data will bounce back and this known as signal reflection 
+
+Q15 Name the type of network configuration where each computer is connected to each other and shaped of a closed loop or ring so every computer on this ring has exactly two neighbors
+A. ring topology
+
+Q16 The advantage of ring topology is that it is easy to ?
+A. easy to build up 
+
+Q17 The dis-advantage of ring topology ?
+A. one connection break then it will disconnect network however it can loop back and connect to network 
+
+Q18 Name a network setup where each computer and network device is interconnected with one another?
+A. mesh
+
+Q19 In Mesh Topology each computer on the network connects to every other computer on the network so by having so many connections it handles_____ very well.
+A.far
+
+Q20 Mesh Topology  setup allows for most transmissions to be distributed even if ___ of the connections goes down. 
+A. one
+
+Q21 Mesh Topology  is  commonly used for?
+A.high redundancy, WAN
+
+Q22 Mesh Topology can be expensive due to ?
+A. many connection
+
+Q23 Due to expensive Mesh Topology is rarely used in _________ Area Network.
+A. LAN
+
+Q24 Mesh Topology is mainly used in _______ Area Network.
+A. WAN
+
+Q25 Name a perfect example of Mesh Topology?
+A. internet
+	
+Q26 The advantage of Mesh Topology is it creates a ?
+A. even if one connection lose it will regenerate a path using mesh network.
+
+Q27 Will computers still be able to communicate In Mesh Topology what happens if One or more connections fail? (YES /NO)
+A.Yes
+
+Q28 Topologies can also be combined with other topologies if needed and these were known as ?
+A. Hybrid
+
+Q29 Name the  most common form of hybrid topologies 
+A. Bus, star
+
+Q30 In a Star Bus network ________ star topologies linked together using a single cable bus connection.
+A. two
+
+Q31 In a Star Ring network_________ring networks are linked together to form a large link network.  
+A. two or more
+
+Q32 In Point to Point Topology are two hosts that are directly connected to each other using______.
+A. single cable
+
+Q33 These hosts could be____?
+A. router, switches
+
+Q34 In A Client Server Topology  clients connect directly to a ____________to access resources rather than connecting to each other.
+A. server
+
+Q35 Why do a lot of businesses use this Client Server  topology?
+A. bcz it does not have to put all resources on each computer
+
+Q36 Point to Multipoint Topology is a network architecture that is commonly used in _________outdoor network.
+A. wireless
+
+Q37 In _________ you would have a central wireless base station and there would be other wireless locations around it that connect to the single central location.
+A. what
+
+Q38 In Point to Multipoint Topology , these other locations would directly communicate to the other locations. (YES/NO)
+A. No
+
+Q39 In Point to Multipoint Topology , the wireless locations were called clients and a central location is commonly called an access point or a________?
+A. base station
+
+Q40 _________Topology is where all the clients on the network talk their every other client on the network to share their resources with each other.
+A. peer to peer
+
+Q41 In Peer to Peer Topology ,one computer can share their printer, another computer can share their file on their hard drive and so on.(True/False)?
+A. True
+
+Q42 In Peer to Peer Topology , there is no centralized server that the clients connect to.(True / False)?
+A. True
+
+Q43 Peer to Peer  topology is simple to set up. You will typically find them in homes and small businesses.(True /False)?
+A. True

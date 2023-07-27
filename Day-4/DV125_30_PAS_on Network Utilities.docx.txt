@@ -1,0 +1,143 @@
+﻿DV125_30_PAS on video related to Network utilities 
+
+
+Q1. The _____________is the most widely used of all network utilities. It's a tool that is used to test issues such as network connectivity and name resolution.
+
+
+A1. ping
+
+
+Q2. When we ping any IP address it sends out ________________to the destination IP address we chose.
+
+
+A2. for data packet 
+
+
+Q3. After the destination receives 4 data packets it will send the data packets back to us as a reply, and these replies are called ___________requests. 
+
+
+A3. echo replies
+
+
+Q4. If we received a reply when we ping then that means there is general network connectivity between us and destination (True/False)
+
+
+A4.  True
+
+
+Q5. If we pinged a host and we got a message that says "_____________", then that could mean that the host is down or that it's blocking all ping requests. **
+
+
+A5. “request time out”
+
+
+Q6. If we get a message that says "_______________", then that message is coming from the router, and it means that a route to the destination cannot be found.
+
+
+A6. “destination host unreachable ” 
+
+
+Q7. The ping command can also be used to test _________________
+A7. DNS issues
+
+
+Q8. If domain name ping failed then next step will be typing IP address instead (True/False)
+
+
+A8. True
+
+
+Q9. The ping command is also combined with other sub commands call_________. They are used to alter the parameters up the ping utility. 
+
+
+A9. switches
+
+
+
+
+Q10. You can view a full list at the switches by typing "________" space forward slash and then a question mark.
+
+
+A10. "ping" space forward slash and then a question mark.
+
+
+Q11. _________is another windows network utility that combines the functionality of ping and tracert utility. **
+A11. pathping
+
+
+Q12.A path ping will show the details of the path data packets take between two devices it will give ping like statics for each device that data packets take on the way to destination. (True/False)
+A12. True
+
+
+Q13. If you want to check a device using a regular ping command and if you failed to get a response because the firewall blocked all ping request you can use the ________command instead
+A13. ARP ping
+
+
+Q14. ARP ping command using ARP data packets pings network device. (True/False)
+A14. True
+
+
+Q15. Traceroute is used to find out the exact path to data packet taking on its way to its ___________
+
+
+A15. to the destination
+
+
+Q16. At a command prompt when we type "________" space and then the IP address and press enter it will report back information about the router. 
+A16. "tracert"
+
+
+Q17. TRACERT commands report back information like the IP address and time it took between each hop. So (True/False)
+A17. True
+
+
+Q18. ___________ Utility and this is used to resolve Netbios name to IP addresses. So in a command prompt just type in it. **
+A18. nbtstat
+
+
+Q19. _________is used to resolve the IP address to MAC address. In order to communicate with other computers. It means to know the address for that address.
+A19.  ARP
+
+
+Q20. The first thing the computer does is check its_________, and see if it has a MAC address for that computer.  **
+A20. ARP cache
+
+
+Q21. We can check this itself in a command prompt by using the ARP utility by typing ARP with a minus a switch and see the corresponding IP address for its mac address. (True/False)
+A21. True
+
+
+Q22. Netstat utility is used to display a network to your computer. So, we can visually see that our computer is currently seeking to communicate with ________and to http web server. **
+A22. ftp server
+
+
+Q23. If you are not sure what connections your computers currently have you can use the Netstat utility to find out. (True/false)
+A23. True
+
+
+Q24. The________ utility is very common this utility is a powerful tool you used to display network configuration for our computer and this information can be used for problem solving
+A24. ipconfig
+
+
+Q25. If in command prompt we type Ipconfig along with /, it would display the full TCP/IP configuration for our computer (True/false)
+A25. True
+
+
+Q26. Using ipconfig we can see information that _______is enabled which means that this computer is getting its IP address from it and it also tells us the IP address of it.
+A26. DHCP server
+
+
+Q27. It also tells us the IP address for___________ servers. So, if we experience any problem browsing the internet domain names that might be a problem with it. 
+A27. DNS
+
+
+Q28. Similar to the Ipconfig utility used in the windows there is also a ________ utility. And this utility is a command that is used in the UNIX and LINUX command operating system.
+A28. ifconfig
+
+
+Q29. NS lookup is short for _____________ and this utility is used to lookup DNS information.  
+A29. name server lookup 
+
+
+Q30.  _________ command is the Unix version of NS lookup; it does the same thing. 
+A30. dig
